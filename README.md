@@ -20,9 +20,7 @@ This tutorial outlines how to use Remote Desktop Connection on Windows.<br />
 <h2>RDC Stages</h2>
 
 <p>
-<script src=![Screenshot 2025-06-06 192737](https://github.com/user-attachments/assets/02770629-f548-4c28-9b8f-e2c724724e32)
-
-
+<img src=https://docs.azure.cn/en-us/virtual-network/ip-services/media/associate-public-ip-address-vm/view-assigned-public-ip-address.png
 </p>
 <p>
 First, you will need the other computer's public IP address and copy it.
@@ -38,9 +36,9 @@ Then, you would want to open Remote Desktop Connection by pressing "START" and t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://www.helpwire.app/blog/wp-content/uploads/2022/11/connect_computer.jpg"/>
 </p>
 <p>
-Lastly, you will enter the public IP address and the computer's password and you should be able to sign in the other desktop using Remote Desktop Connection.
+Lastly, you will enter the public IP address and the computer's password, and you should be able to sign into the other desktop using Remote Desktop Connection.
 </p>
 <br />
